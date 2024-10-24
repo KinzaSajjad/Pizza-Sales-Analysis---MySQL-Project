@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis---MySQL-Project
+# Pizza Sales Analysis MySQL Project
 **Overview**
 
 This project focuses on the analysis of pizza sales at a fictional pizza restaurant, PizzaHut, using MySQL. The project manages and analyzes sales data, order details, and pizza information. The data is stored in four key tables that track pizzas, orders, order details, and pizza types.
